@@ -1,3 +1,12 @@
+/*******************************\
+ * Smart-Parking-Assistant.ino * 
+ * Revision:01                 *
+ * Developed by:               *
+ * M E H R A B  K H A V A R I  *
+ * @mehrabtronic               *
+ * Nov 17th 2024               *
+\*******************************/
+
 const int trigPin = 9;  // TRIG pin of the ultrasonic sensor
 const int echoPin = 10; // ECHO pin of the ultrasonic sensor
 const int buzzerPin = 8; // Buzzer pin
