@@ -36,7 +36,8 @@ This project helps you build a smart parking assistant using an Arduino board, a
 
 ## Wiring Diagram:
 
-![image](https://github.com/user-attachments/assets/1c86deb7-fbdb-4eb1-b78d-9f90ef0733dc)
+![Screenshot 2024-11-17 125613](https://github.com/user-attachments/assets/efe33309-8acf-4283-b50f-5d845958bef1)
+
 
 
 ## How it Works:
